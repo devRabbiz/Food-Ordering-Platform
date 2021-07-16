@@ -1,5 +1,7 @@
 # Food-Ordering-Platform
 
+Project timeline: June 2020
+
 Food ordering platform - Hungry Panda
 
 Inspired from Food panda and Zomato. 
